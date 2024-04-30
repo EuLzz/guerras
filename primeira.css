@@ -1,0 +1,30 @@
+@charset="UTF-8"
+
+body{
+    background-color: ;
+    }
+    
+    
+    .Guerra{
+        color:green;
+        font-family: cursive;
+    }
+    h1{
+        font-size: 50px;
+        font-family: times new roman;
+        border: 5%;
+        text-align: center;
+    }
+    h2{
+        color:#693d1a;
+        font-size: 30px;
+    }
+    body{
+        background-color: #ffdfaa;
+    }
+ p{
+     font-size: 20px;
+ }
+  strong{
+      color:#67441a;
+  }

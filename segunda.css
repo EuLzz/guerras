@@ -1,0 +1,26 @@
+@charset="UTF-8"
+
+body{
+    background-color: ;
+}
+strong{
+    color:green;
+}
+h1{
+    color:#8b4b2e;
+    text-align: center;
+    
+}
+.segunda{
+    color:green;
+    font-family: cursive;
+}
+body{
+    background: linear-gradient(to right,#ffd295,#ffdfaa);
+    
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+    
+}
